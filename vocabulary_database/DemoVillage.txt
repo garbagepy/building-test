@@ -1,0 +1,13 @@
+Village Name: DemoVillage
+Original Language: Deutsch
+Goal Language: Englisch
+Allegorie:Allegory:5
+Gleichgültigkeit:Apathy:5
+Rätsel:Conundrum:5
+Fleißig:Diligent:5
+Vergänglich:Ephemeral:5
+Nichtig:Frivolous:5
+Unaufhörlich:Incessant:5
+Sorgfältig:Meticulous:5
+Veraltet:Obsolete:5
+Zögerlich:Hesitant:5
