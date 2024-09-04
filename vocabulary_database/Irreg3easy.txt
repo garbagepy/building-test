@@ -1,0 +1,14 @@
+Village Name: Irreg3easy
+Original Language: Latin
+Goal Language: German
+cognoscere (cognosco, cognovi, cognitum):erkennen, erfahren:5
+colere (colo, colui, cultum):verehren, pflegen, bebauen:5
+consulere (consulo, consului, consultum):vorgehen (gegen), beraten:5
+currere (curro, cucurri, cursum):laufen, eilen:5
+descendere (descendo, descendi, descensum):herabsteigen:5
+desinere (desino, desii, desitum):aufhören, ablassen:5
+dicere (dico, dixi, dictum):sagen, sprechen:5
+ducere (duco, duxi, ductum):führen, halten für:5
+erumpere (erumpo, erupi, eruptum):ausbrechen:5
+incendere (incendo, incendi, incensum):anzünden, in Brand stecken:5
+fallere (fallo, fefelli, - ):täuschen:5

@@ -1,0 +1,49 @@
+Village Name: Irregular Verbs
+Original Language: Latin
+Goal Language: German
+adiuvare (adiuvo, adiuvi, adiutum):unterstützen:5
+dare (do, debi, datum):geben:5
+stare (sto, steti, -):stehen:5
+augere (augeo, auxi, auctum):vermehren:5
+debere (debeo, debui, debitum):schulden müssen:5
+docere (doceo, docui, doctum):unterrichten:5
+habere (habeo, habui, habitum):haben:5
+adhibere (adhibeo, adhibui, adhibitum):anwenden:5
+praebere (praebeo, praebui, praebitum):reichen:5
+iubere (iubeo, iussi, iussum):beauftragen:5
+respondere (respondeo, respondi, responsum):antworten:5
+ridere (rideo, risi, risum):lachen:5
+sedere (sedeo, sedi, sessum):sitzen:5
+tenere (teneo, tenui, tentum):halten:5
+videre (video, vidi, visum):sehen, schauen:5
+aperire (aperio, aperio, aperui, apertum):aufmachen:5
+venire (venio, veni, ventum):kommen:5
+vincere (vincio, vinxi, vinctum):fesseln, binden:5
+addere (addo, addidi, additum):hinzufügen:5
+agere (ago, egi, actum):tun, handeln:5
+adiungere (adiungo, adiunxi, adiunctum):hinzufügen:5
+affigere (affigo, affixi, affixum):anschlagen:5
+ascendere (ascendo, ascendi, ascensum):hinaufsteigen:5
+attribuere (attribuo, attribui, attributum):zuweisen:5
+cognoscere (cognosco, cognovi, cognitum):erkennen, erfahren:5
+colere (colo, colui, cultum):verehren, pflegen, bebauen:5
+consulere (consulo, consului, consultum):vorgehen (gegen), beraten:5
+currere (curro, cucurri, cursum):laufen, eilen:5
+descendere (descendo, descendi, descensum):herabsteigen:5
+desinere (desino, desii, desitum):aufhören, ablassen:5
+dicere (dico, dixi, dictum):sagen, sprechen:5
+ducere (duco, duxi, ductum):führen, halten für:5
+erumpere (erumpo, erupi, eruptum):ausbrechen:5
+incendere (incendo, incendi, incensum):anzünden, in Brand stecken:5
+fallere (fallo, fefelli, - ):täuschen:5
+legere (lego, legi, lectum):lesen:5
+mittere (mitto, misi, missum):werfen, schicken:5
+occidere (occido, occidi, occisum):umbringen, töten:5
+opprimere (opprimo,oppressi, oppressum):überwältigen:5
+petere (peto, petivi, petitum):aufsuchen, verlangen, angreifen:5
+relinquere (relinquo, reliqui, relictum):zurücklassen, verlassen:5
+statuere (statuo, statui, statutum):entscheiden, feststellen:5
+tegere (tego, texi, tectum):bedecken, zudecken, beschützen:5
+tradere (trado, tradidi, traditum):übergeben, überliefern:5
+vertere (verto, verti, versum):wenden, umkehren:5
+vincere (vinco, vici, victum):(be)siegen:5

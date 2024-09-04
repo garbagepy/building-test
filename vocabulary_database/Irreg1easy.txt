@@ -1,0 +1,15 @@
+Village Name: Irreg1easy
+Original Language: Latin
+Goal Language: German
+adiuvare (adiuvo, adiuvi, adiutum):unterstützen:5
+dare (do, debi, datum):geben:5
+stare (sto, steti, -):stehen:5
+augere (augeo, auxi, auctum):vermehren:5
+debere (debeo, debui, debitum):schulden müssen:5
+docere (doceo, docui, doctum):unterrichten:5
+habere (habeo, habui, habitum):haben:5
+adhibere (adhibeo, adhibui, adhibitum):anwenden:5
+praebere (praebeo, praebui, praebitum):reichen:5
+iubere (iubeo, iussi, iussum):beauftragen:5
+respondere (respondeo, respondi, responsum):antworten:5
+ridere (rideo, risi, risum):lachen:5
